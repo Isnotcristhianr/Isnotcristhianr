@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pucesi - Sistema de Gestión Documental<br><br>🌱 I’m currently learning React, Vue Js, Js, Dart<br><br>👯 I’m looking to collaborate <br><br>🤝 I’m creator of SwapMe App<br><br>👨‍💻 All of my projects are available at https://isnotcristhianr.me/<br><br>📝 I found the freelance group WebCtas<br><br>💬 Ask me about Html, Css, Js, Java, C#, and more<br><br>📫 How to reach me isnotcristhianr@gmail.com<br><br>📄 Know about my experiences https://isnotcristhianr.me/<br><br>
+🔭 I’m currently Frelance Developer<br><br>🌱 I’m currently learning React, Vue.Js, Js, Dart<br><br>👯 I’m looking to collaborate <br><br>🤝 I’m creator of SwapMe App<br><br>👨‍💻 All of my projects are available at https://isnotcristhianr.me/<br><br>📝 I found the freelance group WebCtas<br><br>💬 Ask me about Html, Css, Js, Java, C#, and more<br><br>📫 How to reach me isnotcristhianr@gmail.com<br><br>📄 Know about my experiences https://isnotcristhianr.me/<br><br>
 
 
 ## 🌐 Socials:
